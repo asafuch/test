@@ -10,7 +10,7 @@
       </div>
       <div v-show="showDetail" class="details">
           <p>{{project.details}}</p>
-          <p>hello world</p>
+          <p>hello world2</p>
       </div>
   </div>
 </template>
