@@ -11,6 +11,7 @@
       <div v-show="showDetail" class="details">
           <p>{{project.details}}</p>
           <h1>hello world</h1>
+          <p>hello world2</p>
       </div>
   </div>
 </template>
