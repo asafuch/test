@@ -24,6 +24,9 @@ export default {
            
         }
     },
+    mounted(){
+        console.log("hello world");
+    },
     methods:{
         toggleDetail(){
             this.showDetail=!this.showDetail
